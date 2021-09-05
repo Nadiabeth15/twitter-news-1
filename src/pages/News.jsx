@@ -3,7 +3,7 @@ import React, { Fragment } from "react";
 function News() {
   return (
       <Fragment>
-      <h5 class="mb-2">Card with Image Overlay</h5>
+      <h5 class="mb-2"></h5>
     <div className="card card-success">
       <div className="card-body">
         <div className="row">

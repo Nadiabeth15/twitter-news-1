@@ -17,7 +17,7 @@ function Navbar() {
             <ul className="navbar-nav">
               <li className="nav-item">
                 <a href="index3.html" className="nav-link">
-                  Home
+                  Inicio
                 </a>
               </li>
               <li className="nav-item">
@@ -28,6 +28,31 @@ function Navbar() {
               <li className="nav-item">
                 <a href="#" className="nav-link">
                   Economía 
+                </a>
+              </li>
+              <li className="nav-item">
+                <a href="#" className="nav-link">
+                  Política 
+                </a>
+              </li>
+              <li className="nav-item">
+                <a href="#" className="nav-link">
+                  Deporte 
+                </a>
+              </li>
+              <li className="nav-item">
+                <a href="#" className="nav-link">
+                  Espectáculos 
+                </a>
+              </li>
+              <li className="nav-item">
+                <a href="#" className="nav-link">
+                  Entretenimiento 
+                </a>
+              </li>
+              <li className="nav-item">
+                <a href="#" className="nav-link">
+                  Otros 
                 </a>
               </li>
             </ul>
