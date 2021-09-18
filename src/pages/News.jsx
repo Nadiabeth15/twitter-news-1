@@ -21,11 +21,8 @@ function News() {
                 {/*Parte izquierda superior*/}
                 <div className="card-img-overlay d-flex flex-column justify-content-end">
                   <h5 className="card-title text-primary text-white">
-<<<<<<< HEAD
                     Noticia 2
-=======
                     {Data.category}
->>>>>>> d4d22bd2e074fd3793df0d40dd37f935b98b53ae
                   </h5>
                   <p className="card-text text-white pb-2 pt-1">
                   {Data.title}
