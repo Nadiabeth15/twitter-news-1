@@ -1,5 +1,6 @@
-import React, { Fragment } from "react";
 
+import React,{ useState, useEffect,Fragment} from 'react';
+import Data from "./data.json"
 function News() {
   return (
     <Fragment>
@@ -8,9 +9,11 @@ function News() {
           <div className="row">
             <div className="col-xl-3">
               <div className="card mb-2 bg-gradient-dark">
+                
                 <img
+                
                   className="card-img-top"
-                  src="../dist/img/photo1.png"
+                  src={Data.img}
                   alt="Dist Photo 1"
                   // width="100"
                   height="220"
@@ -18,14 +21,17 @@ function News() {
                 {/*Parte izquierda superior*/}
                 <div className="card-img-overlay d-flex flex-column justify-content-end">
                   <h5 className="card-title text-primary text-white">
+<<<<<<< HEAD
                     Noticia 2
+=======
+                    {Data.category}
+>>>>>>> d4d22bd2e074fd3793df0d40dd37f935b98b53ae
                   </h5>
                   <p className="card-text text-white pb-2 pt-1">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit sed
-                    do eiusmod tempor.
+                  {Data.title}
                   </p>
                   <a href="#" className="text-white">
-                    Last update 2 mins ago
+                  {Data.date}
                   </a>
                 </div>
               </div>
