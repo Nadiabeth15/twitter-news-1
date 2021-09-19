@@ -1,4 +1,5 @@
 import React, { Fragment } from "react";
+import { Link } from "react-router-dom";
 
 
 function Navbar() {
@@ -10,19 +11,19 @@ function Navbar() {
 
   return (
     <Fragment>
-      <nav className="header navbar navbar-dark bg-navy">
+      <nav className="header navbar navbar-dark bg-navy" style={{height:"1.5cm"}}>
         <div className="container">
               <h2 align="center"><b>Twitter News</b></h2>
               <h5><b>{displayDate}</b></h5> 
         </div>
       </nav>
-      <nav className="header navbar navbar-expand navbar-dark bg-gray">
+      <nav className="header navbar navbar-expand navbar-dark bg-gray" style={{height:"0.9cm"}}>
         <div className="container">
-          <div className="collapse navbar-collapse order-5" id="navbarCollapse">
+          <div className="collapse navbar-collapse" id="navbarCollapse">
             {/* Left navbar links */}
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a href="index3.html" className="nav-link">
+                <a href="/Inicio" className="nav-link">
                   Inicio
                 </a>
               </li>
