@@ -6,9 +6,12 @@ function Home() {
       <div className="card card-success">
         <div className="card-body bg-white">
           <div className="row">
+            {/*Zona izquierda*/}
             <div className="col-xl-3">
-              {/* NOTICIA 2*/}
-              <div className="card mb-2" /*style={{borderStyle:"solid", borderWidth:"medium", borderColor:"gold"}}*/>
+              {/*Noticia 2*/}
+              <div
+                className="card mb-2" /*style={{borderStyle:"solid", borderWidth:"medium", borderColor:"gold"}}*/
+              >
                 <img
                   className="card-img-top"
                   src={Data["News"][1].img}
@@ -16,13 +19,12 @@ function Home() {
                   // width="100"
                   height="333"
                 />
-                {/*Parte izquierda superior*/}
                 <div className="card-img-overlay d-flex flex-column justify-content-end">
                   <div
                     className="card-text pt-3 pr-3 pl-3"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#F4F6F6",
+                      backgroundColor: "#ABB2B9",
                       opacity: "0.8",
                       textAlign: "justify",
                     }}
@@ -55,7 +57,7 @@ function Home() {
                     className="card-text pt-3 pr-3 pl-3"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#F4F6F6",
+                      backgroundColor: "#ABB2B9",
                       opacity: "0.8",
                       textAlign: "justify",
                     }}
@@ -74,37 +76,6 @@ function Home() {
                 </div>
               </div>
               {/* NOTICIA 6*/}
-              {/* <div className="card mb-2 bg-gradient-dark">
-                <img
-                  className="card-img-top"
-                  src="../dist/img/photo1.png"
-                  alt="Dist Photo 1"
-                  // width="100"
-                  height="220"
-                />
-                <div className="card-img-overlay d-flex flex-column justify-content-end">
-                <div
-                    className="card-text pt-3 pr-3 pl-3"
-                    style={{
-                      color: "#000000",
-                      backgroundColor: "#F4F6F6",
-                      opacity: "0.8",
-                      textAlign: "justify",
-                    }}
-                  >
-                    <h5
-                      className="card-title"
-                      style={{ textTransform: "uppercase" }}
-                    >
-                      {Data["News"][1].category}
-                    </h5>
-                    <p className="card-text">
-                      <b>{Data["News"][1].title}</b> <br />
-                      {Data["News"][1].date}
-                    </p>
-                  </div>
-                </div>
-              </div> */}
             </div>
             {/* NOTICIA 1*/}
             <div className="col-md-12 col-lg-6 col-xl-6">
@@ -136,8 +107,8 @@ function Home() {
                     </h5>
                     <p>{Data["News"][0].date}</p>
                     <a href="#" className="text-black">
-                  Show more
-                  </a>
+                      Show more
+                    </a>
                   </div>
                 </div>
               </div>
@@ -156,7 +127,7 @@ function Home() {
                     className="card-text pt-3 pr-3 pl-3"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#F4F6F6",
+                      backgroundColor: "#ABB2B9",
                       opacity: "0.8",
                       textAlign: "justify",
                     }}
@@ -187,7 +158,7 @@ function Home() {
                     className="card-text pt-3 pr-3 pl-3"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#F4F6F6",
+                      backgroundColor: "#ABB2B9",
                       opacity: "0.8",
                       textAlign: "justify",
                     }}
@@ -206,37 +177,8 @@ function Home() {
                 </div>
               </div>
               {/* NOTICIA 7*/}
-              {/* <div className="card mb-2">
-                <img
-                  className="card-img-top"
-                  src="../dist/img/photo3.jpg"
-                  alt="Dist Photo 3"
-                  height="220"
-                />
-                <div className="card-img-overlay">
-                <div
-                    className="card-text pt-3 pr-3 pl-3"
-                    style={{
-                      color: "#000000",
-                      backgroundColor: "#F4F6F6",
-                      opacity: "0.8",
-                      textAlign: "justify",
-                    }}
-                  >
-                    <h5
-                      className="card-title"
-                      style={{ textTransform: "uppercase" }}
-                    >
-                      {Data["News"][1].category}
-                    </h5>
-                    <p className="card-text">
-                      <b>{Data["News"][1].title}</b> <br />
-                      {Data["News"][1].date}
-                    </p>
-                  </div>
-                </div>
-              </div> */}
             </div>
+            {/* NOTICIA N*/}
             <div className="col-md-12 col-lg-6 col-xl-6">
               {/* NOTICIA 2*/}
               <div className="card mb-2 bg-gradient-dark">
@@ -247,13 +189,13 @@ function Home() {
                   // width="100"
                   height="333"
                 />
-                {/*Parte izquierda superior*/}
+                {/*Parte izquierda inferior*/}
                 <div className="card-img-overlay d-flex flex-column justify-content-end">
                   <div
                     className="card-text pt-3 pr-3 pl-3"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#F4F6F6",
+                      backgroundColor: "#ABB2B9",
                       opacity: "0.8",
                       textAlign: "justify",
                     }}
@@ -272,8 +214,8 @@ function Home() {
                 </div>
               </div>
             </div>
+            {/* NOTICIA 7*/}
             <div className="col-md-12 col-lg-6 col-xl-6">
-              {/* NOTICIA 2*/}
               <div className="card mb-2 bg-gradient-dark">
                 <img
                   className="card-img-top"
@@ -288,7 +230,7 @@ function Home() {
                     className="card-text pt-3 pr-3 pl-3"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#F4F6F6",
+                      backgroundColor: "#ABB2B9",
                       opacity: "0.8",
                       textAlign: "justify",
                     }}
