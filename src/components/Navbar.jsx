@@ -1,5 +1,4 @@
 import React, { Fragment } from "react";
-import { Link } from "react-router-dom";
 
 
 function Navbar() {
@@ -23,7 +22,7 @@ function Navbar() {
             {/* Left navbar links */}
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a href="/Inicio" className="nav-link">
+                <a href="/" className="nav-link">
                   Inicio
                 </a>
               </li>
@@ -53,7 +52,7 @@ function Navbar() {
                 </a>
               </li>
               <li className="nav-item">
-                <a href="#" className="nav-link">
+                <a href="/entretenimiento" className="nav-link">
                   Entretenimiento 
                 </a>
               </li>
