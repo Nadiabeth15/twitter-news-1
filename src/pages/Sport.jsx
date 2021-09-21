@@ -1,8 +1,9 @@
-import React, { Fragment } from "react";
-import News from "../components/News";
-import Data from "./results/entretenimiento.json";
-function Entertainment() {
-  const data = Data["news"]
+import React, {Fragment} from 'react'
+import Data from './results/deportes.json'
+import News from '../components/News';
+
+function Sport() {
+    const data = Data["news"]
   return (
     <Fragment>
       <div className="card card-success">
@@ -18,4 +19,4 @@ function Entertainment() {
   );
 }
 
-export default Entertainment;
+export default Sport
