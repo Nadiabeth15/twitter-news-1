@@ -82,46 +82,6 @@
                 "Guzm\u00e1n",
                 "LtT"
             ]
-        },
-        {
-            "id": 1438264914838175744,
-            "title": "Dr. Zapata: Sendero Luminoso us\u00f3 la violencia contra sus rivales con el objeto de eliminar autoridades de una comunidad para reemplazarlas por alguien del partido. Sembrar terror signific\u00f3 que un grupo armado atente contra un grupo desarmado. #EnVivoPUCP",
-            "date": "2021-09-15 22:14:12",
-            "screen_name": "pucp",
-            "name": "PUCP",
-            "img": "",
-            "url": [
-                "https://t.co/Ye5pSIEie8"
-            ],
-            "category": "sociedad",
-            "score": 5,
-            "sentiment": "sentiment/1438264914838175744.jpg",
-            "wordcloud": "wordcloud/1438264914838175744.jpg",
-            "entities": [
-                "comunidad",
-                "Luminoso",
-                "atente"
-            ]
-        },
-        {
-            "id": 1438263629120512000,
-            "title": "Dr. Antonio Zapata: El Per\u00fa ha tenido m\u00faltiples episodios de violencia pol\u00edtica, entendamos que en nuestra historia se han dado las condiciones para ello y Sendero Luminoso es el \u00faltimo cap\u00edtulo de un proceso de 200 a\u00f1os de violencia. #EnVivoPUCP",
-            "date": "2021-09-15 22:09:05",
-            "screen_name": "pucp",
-            "name": "PUCP",
-            "img": "",
-            "url": [
-                "https://t.co/Ye5pSIEie8"
-            ],
-            "category": "sociedad",
-            "score": 5,
-            "sentiment": "sentiment/1438263629120512000.jpg",
-            "wordcloud": "wordcloud/1438263629120512000.jpg",
-            "entities": [
-                "Antonio",
-                "a\u00f1os",
-                "Luminoso"
-            ]
         }
     ]
 }
