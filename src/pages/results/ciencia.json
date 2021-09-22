@@ -1,98 +1,45 @@
 {
     "news": [
         {
-            "id": 1439972724030455808,
-            "title": "#BLACKPINK ha sido designado como uno de los cuatro nuevos 'Defensores de los Objetivos de Desarrollo Sostenible' de las NACIONES UNIDAS, para crear conciencia sobre las causas globales y a sentar las bases para un planeta pr\u00f3spero, pac\u00edfico y sostenible para 2030.#MTVNewsLA \ud83d\udd25",
-            "date": "2021-09-20 15:20:25",
-            "screen_name": "MTVLA",
-            "name": "MTVLA",
-            "img": "http://pbs.twimg.com/media/E_vPj0DXEAUNHN6.jpg",
+            "id": 1440695129153564672,
+            "title": "\ud83d\udce2 El titular de la @pcmperu, Guido Bellido, anuncia la creaci\u00f3n del Ministerio de Ciencia y Tecnolog\u00eda e Innovaci\u00f3n. \ud83d\udc49",
+            "date": "2021-09-22 15:11:00",
+            "screen_name": "DiarioElPeruano",
+            "name": "Diario El Peruano",
+            "img": "http://pbs.twimg.com/media/E_5NPtKUUAQdttd.png",
             "url": [
-                "https://t.co/CiCoSu6gB6"
+                "https://t.co/BvfVz3TPpB",
+                "https://t.co/9lXccEx6U7"
             ],
             "category": "ciencia",
-            "score": 12
+            "score": 7,
+            "sentiment": "sentiment/1440695129153564672.jpg",
+            "wordcloud": "wordcloud/1440695129153564672.jpg",
+            "entities": [
+                "Guido",
+                "Bellido",
+                "Tecnolog\u00eda"
+            ]
         },
         {
-            "id": 1440267310158082048,
-            "title": "Un loro entona la melod\u00eda de \u2018La pantera rosa\u2019 Un usuario de Twitter capt\u00f3 a su loro cantando el emblem\u00e1tico tema musical de la pel\u00edcula y de la serie de dibujos animados \u2018La Pantera rosa\u2019",
-            "date": "2021-09-21 10:51:00",
-            "screen_name": "ActualidadRT",
-            "name": "RT en Espa\u00f1ol",
-            "img": "http://pbs.twimg.com/media/E_zO936VUA41tcT.jpg",
+            "id": 1438555716562919424,
+            "title": "Nuestro Laboratorio de Gen\u00f3mica investiga #EnfermedadesInfecciosas para fortalecer nuestra #SaludP\u00fablica y procesa pruebas moleculares de SARS-CoV-2. Aqu\u00ed, contamos un poco m\u00e1s sobre sus proyectos de #Investigaci\u00f3n. \ud83e\uddf5 #LaboratorioPUCP #PUCP",
+            "date": "2021-09-16 17:29:44",
+            "screen_name": "pucp",
+            "name": "PUCP",
+            "img": "http://pbs.twimg.com/media/E_bGtI4XMAMDyeI.jpg",
             "url": [
-                "https://t.co/8nK6mUpZHD"
+                "https://t.co/ryGa8qAtoa"
             ],
-            "category": "ciencia",
-            "score": 12
-        },
-        {
-            "id": 1440059904518082560,
-            "title": "Agradezco al Presidente @alferdez y a la Vicepresidenta @CFKArgentina por la designaci\u00f3n como Ministro de Ciencia y Tecnolog\u00eda \ud83c\udde6\ud83c\uddf7",
-            "date": "2021-09-20 21:06:50",
-            "screen_name": "FilmusDaniel",
-            "name": "Daniel Filmus",
-            "img": "http://pbs.twimg.com/media/E_we1uWUcAIu3n8.jpg",
-            "url": [
-                "https://t.co/hxukFZmBVj"
-            ],
-            "category": "ciencia",
-            "score": 9
-        },
-        {
-            "id": 1440415698707091456,
-            "title": "@ATUspain @abc_madrid @smedial @ppmadrid @angelgarridog @EduardoFRub @R_vanGrieken @unicomplutense @gallaup @Lauragutierrez_ @educaciongob @CienciaGob @astro_duque @PPopular @madrimasd @asambleamadrid @urjc @PlanetadComic @IdiazAyuso @clararamassm @BertaFF @ctxt_es @mikelemora @blondieconomics @ElisaSilio @UniversidadGob ANTEPROYECTO DE LEY DE RECONOCIMIENTO DE LA UNIVERSIDAD PRIVADA \"UNIVERSIDAD DE DISE\u00d1O, INNOVACI\u00d3N Y TECNOLOG\u00cdA (UDIT)\" Tr\u00e1mite de audiencia e informaci\u00f3n p\u00fablica Plazo para formular alegaciones: De 22/09/2021 hasta 13/10/2021",
-            "date": "2021-09-21 20:40:38",
-            "screen_name": "FiQuiPedia",
-            "name": "Enrique Garc\u00eda \ud83c\udf4f",
-            "img": "http://pbs.twimg.com/media/E_1iVBmVkAMj1Qs.jpg",
-            "url": [
-                "https://t.co/ITixQVWlrl",
-                "https://t.co/bf3XdIPZ6m"
-            ],
-            "category": "ciencia",
-            "score": 8
-        },
-        {
-            "id": 1439938809584517120,
-            "title": "[Video] Ingeniero de 82 a\u00f1os cre\u00f3 una m\u00e1quina capaz de producir agua \"de la nada\" #CooperativaContigo",
-            "date": "2021-09-20 13:05:39",
-            "screen_name": "Cooperativa",
-            "name": "Cooperativa",
-            "img": "http://pbs.twimg.com/media/E_uwt5eVkAYxJiN.jpg",
-            "url": [
-                "https://t.co/8mNV3p68sP",
-                "https://t.co/rbtvJBJaTc"
-            ],
-            "category": "ciencia",
-            "score": 7
-        },
-        {
-            "id": 1440415403293831168,
-            "title": "#Tecnologia Akai Professional MPC Studio lleva el control de la m\u00fasica t\u00e1ctil a un nivel superior",
-            "date": "2021-09-21 20:39:28",
-            "screen_name": "TendenciasTech",
-            "name": "Berlin Gonzalez",
-            "img": "http://pbs.twimg.com/media/E_1iLPtVEAckJKJ.jpg",
-            "url": [
-                "https://t.co/Sb6BDAvyI5",
-                "https://t.co/aiMJbNHL50"
-            ],
-            "category": "ciencia",
-            "score": 7
-        },
-        {
-            "id": 1440415203447824384,
-            "title": "Se realiz\u00f3 la apertura del stand argentino en la Conferencia General del Organismo Internacional de Energ\u00eda At\u00f3mica (OIEA) en Viena. All\u00ed se destac\u00f3 la importancia del desarrollo alcanzado en materia de tecnolog\u00eda nuclear y el gran potencial de la Argentina en esta \u00e1rea. #IAEAGC",
-            "date": "2021-09-21 20:38:40",
-            "screen_name": "invapargentina",
-            "name": "INVAP",
-            "img": "http://pbs.twimg.com/media/E_1fM0KUUAM1P5-.jpg",
-            "url": [
-                "https://t.co/YmmW8ZS7ho"
-            ],
-            "category": "ciencia",
-            "score": 5
+            "category": "economia",
+            "score": 5,
+            "sentiment": "sentiment/1438555716562919424.jpg",
+            "wordcloud": "wordcloud/1438555716562919424.jpg",
+            "entities": [
+                "LaboratorioPUCP",
+                "SARS",
+                "pruebas"
+            ]
         }
     ]
 }

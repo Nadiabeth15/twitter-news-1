@@ -31,26 +31,20 @@ function Navbar() {
 
   return (
     <Fragment>
-      <nav
+      <header
         className="header navbar navbar-dark bg-navy"
-        style={{ height: "2cm"}}
-      >
-        {/* <div className="logo-head">
-                  <a href="/">
-                    <picture>
-                      <img src="../dist/img/Tw-News.png" height={80} />
-                    </picture>
-                  </a>
-                </div> */}
+        style={{ height: "2.3cm"}}
+      >        
         <div className="container">
-          <h1>
+          <h1>   
+          <img src="../dist/img/Tw-News.png" height={80} />
             <b>Twitter News</b>
           </h1>
           <h5>
             {displayDate}
           </h5>
         </div>
-      </nav>
+      </header>
       <nav
         className="header navbar navbar-expand navbar-dark bg-gray"
         style={{ height: "1cm", alignContent:"center" , paddingLeft:"5.5cm"}}

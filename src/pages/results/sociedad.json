@@ -1,31 +1,127 @@
 {
     "news": [
         {
-            "id": 1439940507782758400,
-            "title": "Nuevo jefe de Fondepes tiene denuncias por violencia familiar y una investigaci\u00f3n fiscal \u25ba",
-            "date": "2021-09-20 13:12:24",
-            "screen_name": "Gestionpe",
-            "name": "Diario Gesti\u00f3n",
-            "img": "http://pbs.twimg.com/media/E_uyPd4XEAYuB3G.png",
+            "id": 1440760834339180544,
+            "title": "\ud83d\udd34M\u00e1s de 850 hect\u00e1reas de cobertura natural devast\u00f3 el incendio forestal que afect\u00f3 a tres distritos ubicados en la provincia de Cusco, cerca de la Ciudad Imperial.",
+            "date": "2021-09-22 19:32:05",
+            "screen_name": "Agencia_Andina",
+            "name": "Agencia Andina",
+            "img": "http://pbs.twimg.com/media/E_6cSh3UUAE33bV.jpg",
             "url": [
-                "https://t.co/WLFv7ragQL",
-                "https://t.co/qks2pYbKQs"
+                "https://t.co/9GCI6CgkbA",
+                "https://t.co/kY2WT6pxck"
             ],
             "category": "sociedad",
-            "score": 8
+            "score": 8,
+            "sentiment": "sentiment/1440760834339180544.jpg",
+            "wordcloud": "wordcloud/1440760834339180544.jpg",
+            "entities": [
+                "provincia",
+                "cobertura",
+                "Ciudad Imperial"
+            ]
         },
         {
-            "id": 1440413421518798848,
-            "title": "Dani Rovira patrocinando la inmigraci\u00f3n ilegal, el tr\u00e1fico de personas, haciendo de influencer de las mafias y de paso trinc\u00e1ndote tus impuestos para presentar al Open Arms como algo maravilloso en su \u00faltima pel\u00edcula. C\u00f3mo no se van a ir los youtubers de Espa\u00f1a! #EduardRoviraEH",
-            "date": "2021-09-21 20:31:35",
-            "screen_name": "IP_017",
-            "name": "Mr. Pueblo",
-            "img": "http://pbs.twimg.com/media/E_1gX3rUcAUJGwV.jpg",
+            "id": 1437858688887255040,
+            "title": "\ud83c\uddf5\ud83c\uddea Congresistas de derecha en Per\u00fa pidieron ver el cuerpo de Abimael Guzm\u00e1n, cabecilla de la organizaci\u00f3n terrorista Sendero Luminoso. \u00bfQu\u00e9 va a pasar luego de su muerte? Le contamos \u279f #VideosAFP",
+            "date": "2021-09-14 19:20:00",
+            "screen_name": "ELTIEMPO",
+            "name": "EL TIEMPO",
+            "img": "http://pbs.twimg.com/media/E_QvB1nXsAQVU0t.jpg",
             "url": [
-                "https://t.co/cabnDZyH2x"
+                "https://t.co/OCjxVefi8V",
+                "https://t.co/NoloXqdfDc"
             ],
             "category": "sociedad",
-            "score": 7
+            "score": 5,
+            "sentiment": "sentiment/1437858688887255040.jpg",
+            "wordcloud": "wordcloud/1437858688887255040.jpg",
+            "entities": [
+                "Guzm\u00e1n",
+                "organizaci\u00f3n",
+                "Abimael"
+            ]
+        },
+        {
+            "id": 1437841643957280768,
+            "title": "Per\u00fa: Congresistas de derecha han exigido ver el cad\u00e1ver de Abimael Guzm\u00e1n, fundador del grupo comunista 'Sendero Luminoso', para corroborar el paradero sus restos",
+            "date": "2021-09-14 18:12:16",
+            "screen_name": "NTN24",
+            "name": "NTN24",
+            "img": "http://pbs.twimg.com/media/E_Q8hWKWUAAg4LW.jpg",
+            "url": [
+                "https://t.co/CXyaotioAD",
+                "https://t.co/UKhSkHY5t7"
+            ],
+            "category": "sociedad",
+            "score": 5,
+            "sentiment": "sentiment/1437841643957280768.jpg",
+            "wordcloud": "wordcloud/1437841643957280768.jpg",
+            "entities": [
+                "Guzm\u00e1n",
+                "derecha",
+                "Luminoso"
+            ]
+        },
+        {
+            "id": 1437774489912291328,
+            "title": "Per\u00fa: Disputa por el cad\u00e1ver de Abimael Guzm\u00e1n, fundador y l\u00edder de Sendero Luminoso \ud83d\udc49https://t.co/Q3LtT81Iwt",
+            "date": "2021-09-14 13:45:25",
+            "screen_name": "AristeguiOnline",
+            "name": "Aristegui Noticias",
+            "img": "http://pbs.twimg.com/media/E_QAR4kX0AARWBb.jpg",
+            "url": [
+                "https://t.co/wzcaaij581"
+            ],
+            "category": "sociedad",
+            "score": 5,
+            "sentiment": "sentiment/1437774489912291328.jpg",
+            "wordcloud": "wordcloud/1437774489912291328.jpg",
+            "entities": [
+                "l\u00edder",
+                "Guzm\u00e1n",
+                "LtT"
+            ]
+        },
+        {
+            "id": 1438264914838175744,
+            "title": "Dr. Zapata: Sendero Luminoso us\u00f3 la violencia contra sus rivales con el objeto de eliminar autoridades de una comunidad para reemplazarlas por alguien del partido. Sembrar terror signific\u00f3 que un grupo armado atente contra un grupo desarmado. #EnVivoPUCP",
+            "date": "2021-09-15 22:14:12",
+            "screen_name": "pucp",
+            "name": "PUCP",
+            "img": "",
+            "url": [
+                "https://t.co/Ye5pSIEie8"
+            ],
+            "category": "sociedad",
+            "score": 5,
+            "sentiment": "sentiment/1438264914838175744.jpg",
+            "wordcloud": "wordcloud/1438264914838175744.jpg",
+            "entities": [
+                "comunidad",
+                "Luminoso",
+                "atente"
+            ]
+        },
+        {
+            "id": 1438263629120512000,
+            "title": "Dr. Antonio Zapata: El Per\u00fa ha tenido m\u00faltiples episodios de violencia pol\u00edtica, entendamos que en nuestra historia se han dado las condiciones para ello y Sendero Luminoso es el \u00faltimo cap\u00edtulo de un proceso de 200 a\u00f1os de violencia. #EnVivoPUCP",
+            "date": "2021-09-15 22:09:05",
+            "screen_name": "pucp",
+            "name": "PUCP",
+            "img": "",
+            "url": [
+                "https://t.co/Ye5pSIEie8"
+            ],
+            "category": "sociedad",
+            "score": 5,
+            "sentiment": "sentiment/1438263629120512000.jpg",
+            "wordcloud": "wordcloud/1438263629120512000.jpg",
+            "entities": [
+                "Antonio",
+                "a\u00f1os",
+                "Luminoso"
+            ]
         }
     ]
 }

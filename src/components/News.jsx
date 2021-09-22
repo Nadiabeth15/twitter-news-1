@@ -19,7 +19,7 @@ function News({ data }) {
               className="card-text pt-3 pr-3 pl-3"
               style={{
                 color: "#000000",
-                backgroundColor: "#F4F6F6",
+                backgroundColor: "white",
                 opacity: "0.8",
                 textAlign: "justify",
                 height: "150px",

@@ -11,7 +11,7 @@ function Home() {
             <div className="col-xl-3">
               {/*Noticia 2*/}
               <div
-                className="card mb-2" style={{borderStyle:"solid", borderWidth:"2px", borderColor:"black"}}
+                className="card mb-2 bg-gradient-dark" style={{borderStyle:"solid", borderWidth:"2px", borderColor:"black"}}
               >
                 <a href={Data["news"][1].url[0]}>
                 <img
@@ -27,11 +27,11 @@ function Home() {
                     className="card-text pt-2 pr-2 pl-2 pb-2"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#ABB2B9",
+                      backgroundColor: "lightgrey",
                       textAlign: "justify",
                       height: "150px",
                       borderTop: "2px solid #000000",
-                      overflow: "auto",
+                      overflow: "auto"
                     }}
                   >
                     <h5
@@ -69,7 +69,7 @@ function Home() {
                     className="card-text pt-2 pr-2 pl-2 pb-2"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#ABB2B9",                    
+                      backgroundColor: "lightgrey",                    
                       textAlign: "justify",
                       height: "150px",
                       borderTop: "2px solid #000000",
@@ -109,14 +109,15 @@ function Home() {
                  </a>
                 <div className="card-img d-flex flex-column justify-content-end">
                   <div
-                    className="card-text pt-2 pr-2 pl-2"
+                    className="card-text pt-2 pr-3 pl-3"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#ABB2B9",
+                      backgroundColor: "lightgrey",
                       textAlign: "justify",
                       height: "190px",
                       borderTop: "2px solid #000000",
                       overflow: "auto",
+                      scrollbarColor: "red"
                     }}
                   >
                     <h5
@@ -155,7 +156,7 @@ function Home() {
                     className="card-text pt-2 pr-2 pl-2 pb-2"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#ABB2B9",
+                      backgroundColor: "lightgrey",
                       textAlign: "justify",
                       height: "150px",
                       borderTop: "2px solid #000000",
@@ -195,7 +196,7 @@ function Home() {
                     className="card-text pt-2 pr-2 pl-2 pb-2"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#ABB2B9",
+                      backgroundColor: "lightgrey",
                       textAlign: "justify",
                       height: "150px",
                       borderTop: "2px solid #000000",
@@ -239,7 +240,7 @@ function Home() {
                     className="card-text pt-2 pr-2 pl-2 pb-2"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#ABB2B9",
+                      backgroundColor: "lightgrey",
                       textAlign: "justify",
                       height: "150px",
                       borderTop: "2px solid #000000",
@@ -283,7 +284,7 @@ function Home() {
                     className="card-text pt-2 pr-2 pl-2 pb-2"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#ABB2B9",
+                      backgroundColor: "lightgrey",
                       textAlign: "justify",
                       height: "150px",
                       borderTop: "2px solid #000000",
@@ -327,7 +328,7 @@ function Home() {
                     className="card-text pt-2 pr-2 pl-2 pb-2"
                     style={{
                       color: "#000000",
-                      backgroundColor: "#ABB2B9",
+                      backgroundColor: "lightgrey",
                       textAlign: "justify",
                       height: "150px",
                       borderTop: "2px solid #000000",

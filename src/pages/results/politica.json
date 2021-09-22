@@ -1,61 +1,6 @@
 {
     "news": [
         {
-            "id": 1440007938563846144,
-            "title": "El presidente de la Rep\u00fablica, Pedro Castillo, resalt\u00f3 la importancia de invertir en la educaci\u00f3n. A\u00f1adi\u00f3 que la inversi\u00f3n privada debe darse, pero con transparencia. Conoce m\u00e1s \u25ba",
-            "date": "2021-09-20 17:40:21",
-            "screen_name": "larepublica_pe",
-            "name": "Diario La Rep\u00fablica",
-            "img": "http://pbs.twimg.com/amplify_video_thumb/1440005229836218369/img/z4vXzsoo7YUq-FQ3.jpg",
-            "url": [
-                "https://t.co/ifj3cltRxR",
-                "https://t.co/nVucI3Cd3r"
-            ],
-            "category": "politica",
-            "score": 8
-        },
-        {
-            "id": 1440470454867611648,
-            "title": "El presidente @DrGiammattei se reuni\u00f3 con @antonioguterres, secretario general de las Naciones Unidas con quien convers\u00f3 sobre diferentes temas de inter\u00e9s regional \ud83c\uddec\ud83c\uddf9\ud83e\udd1d\ud83c\uddfa\ud83c\uddf3",
-            "date": "2021-09-22 00:18:13",
-            "screen_name": "GuatemalaGob",
-            "name": "Gobierno Guatemala",
-            "img": "http://pbs.twimg.com/media/E_2T2ulUcAkx6Ge.jpg",
-            "url": [
-                "https://t.co/LYUBu4ol02",
-                "https://t.co/Bfyuqd0IM3"
-            ],
-            "category": "politica",
-            "score": 8
-        },
-        {
-            "id": 1440470103070437376,
-            "title": "Presidente Castillo ante la ONU: \u201cMi Gobierno declarar\u00e1 la emergencia clim\u00e1tica nacional\u201d #LOULTIMO | El presidente de la Rep\u00fablica, Pedro Castillo Terrones, durante su participaci\u00f3n en la 76 Asamblea General de la Organizaci\u00f3n de las Naciones Unidas (ONU), en Nueva York, i\u2026",
-            "date": "2021-09-22 00:16:49",
-            "screen_name": "NacionalTvPeru",
-            "name": "Nacional Tv Per\u00fa",
-            "img": "http://pbs.twimg.com/media/E_2T7MIVEAIuPl-.jpg",
-            "url": [
-                "https://t.co/FisUKlgBQW"
-            ],
-            "category": "politica",
-            "score": 8
-        },
-        {
-            "id": 1440457073003687936,
-            "title": "Pedro Castillo: Este fue el discurso del presidente en la Asamblea General de la ONU - El Comercio Per\u00fa #PedroCastillo #ONU #presidentedelPer\u00fa",
-            "date": "2021-09-21 23:25:03",
-            "screen_name": "PeruNewsweek",
-            "name": "#Per\u00fa #NewsWeek",
-            "img": "http://pbs.twimg.com/media/E_2IEw5VEAE1cai.jpg",
-            "url": [
-                "https://t.co/UgsUERkZfW",
-                "https://t.co/CnCC2iXRWv"
-            ],
-            "category": "politica",
-            "score": 8
-        },
-        {
             "id": 1440334041639636992,
             "title": "\ud83d\udcfa TV en DIRECTO | Montero, ministra de Hacienda, a un senador del PP: \"Cuando este Gobierno ha decidido recortar los beneficios de las energ\u00e9ticas han salido ustedes defendiendo a las energ\u00e9ticas. Dando la receta de siempre: que lo paguen los ciudadanos\"",
             "date": "2021-09-21 15:16:10",
@@ -67,91 +12,220 @@
                 "https://t.co/nJu33w4hr2"
             ],
             "category": "politica",
-            "score": 8
+            "score": 11,
+            "sentiment": "sentiment/1440334041639636992.jpg",
+            "wordcloud": "wordcloud/1440334041639636992.jpg",
+            "entities": [
+                "Hacienda",
+                "DIRECTO",
+                "senador"
+            ]
         },
         {
-            "id": 1440457324867448832,
-            "title": "Pol\u00edtica: Pedro Castillo en la OEA: Internacionalistas se\u00f1alan ambig\u00fcedad en el discurso del mandatario - El Comercio Per\u00fa #PedroCastillo #Organizaci\u00f3ndeEstadosAmericanosOEA",
-            "date": "2021-09-21 23:26:03",
-            "screen_name": "UniversidadPe",
-            "name": "S\u00f3crates",
-            "img": "http://pbs.twimg.com/media/E_2ITaMVUAAhbjG.jpg",
+            "id": 1439669132635648000,
+            "title": "TACNA. La campa\u00f1a de recolecci\u00f3n de firmas, para una ASAMBLEA CONSTITUYENTE, es una realidad y cuando el pueblo decide una meta no hay quien lo pare, ni la coyuntura, ni las conspiraciones.",
+            "date": "2021-09-19 19:14:03",
+            "screen_name": "VLADIMIR_CERRON",
+            "name": "Vladimir Cerr\u00f3n",
+            "img": "http://pbs.twimg.com/media/E_q7W0LXIAYASza.jpg",
             "url": [
-                "https://t.co/3YlRze6SUz",
-                "https://t.co/s9ANW1gUiJ"
+                "https://t.co/7w8ZULiQeQ"
             ],
             "category": "politica",
-            "score": 7
+            "score": 9,
+            "sentiment": "sentiment/1439669132635648000.jpg",
+            "wordcloud": "wordcloud/1439669132635648000.jpg",
+            "entities": [
+                "TACNA",
+                "firmas",
+                "ASAMBLEA"
+            ]
         },
         {
-            "id": 1440453170921033728,
-            "title": "Pol\u00edtica: Jos\u00e9 Luna G\u00e1lvez: Ministerio P\u00fablico solicita que retorne a detenci\u00f3n domiciliaria - El Comercio Per\u00fa #Jos\u00e9LunaG\u00e1lvez #Fiscal\u00eda #ONPE",
-            "date": "2021-09-21 23:09:32",
-            "screen_name": "UniversidadPe",
-            "name": "S\u00f3crates",
-            "img": "http://pbs.twimg.com/media/E_2EhpEVEAAbK82.jpg",
+            "id": 1440007938563846144,
+            "title": "El presidente de la Rep\u00fablica, Pedro Castillo, resalt\u00f3 la importancia de invertir en la educaci\u00f3n. A\u00f1adi\u00f3 que la inversi\u00f3n privada debe darse, pero con transparencia. Conoce m\u00e1s \u25ba",
+            "date": "2021-09-20 17:40:21",
+            "screen_name": "larepublica_pe",
+            "name": "Diario La Rep\u00fablica",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1440005229836218369/img/z4vXzsoo7YUq-FQ3.jpg",
             "url": [
-                "https://t.co/HmomiirjWm",
-                "https://t.co/PbPRS1kWQW"
+                "https://t.co/ifj3cltRxR",
+                "https://t.co/nVucI3Cd3r"
             ],
             "category": "politica",
-            "score": 7
+            "score": 8,
+            "sentiment": "sentiment/1440007938563846144.jpg",
+            "wordcloud": "wordcloud/1440007938563846144.jpg",
+            "entities": [
+                "Castillo",
+                "presidente",
+                "Rep\u00fablica"
+            ]
         },
         {
-            "id": 1440453124779483136,
-            "title": "Ciro G\u00e1lvez: \u201cEsperamos que el ministro de Relaciones Exteriores y el Premier se pongan de acuerdo\u201d El ministro de Cultura se refirI\u00f3 en torno a la posici\u00f3n del presidente del Consejo de Ministros, Guido Bellido, y la posici\u00f3n de la Canci... #Per\u00faNoticias",
-            "date": "2021-09-21 23:09:21",
-            "screen_name": "Peru_Noticias",
-            "name": "Per\u00fa Noticias",
-            "img": "http://pbs.twimg.com/media/E_2Ee9KUUAMScx4.jpg",
-            "url": [
-                "https://t.co/Ii2PZBoveT",
-                "https://t.co/hOh9EHq37g"
-            ],
-            "category": "politica",
-            "score": 7
-        },
-        {
-            "id": 1439645861965877248,
-            "title": "\ud83d\udd34 DIRECTO | El Gobierno canario solicita al Ministerio de Defensa la intervenci\u00f3n de la UME tras la erupci\u00f3n del volc\u00e1n en La Palma",
-            "date": "2021-09-19 17:41:35",
-            "screen_name": "el_pais",
-            "name": "EL PA\u00cdS",
-            "img": "http://pbs.twimg.com/media/E_qmP4WXMAQzTqj.jpg",
-            "url": [
-                "https://t.co/pAZrlVwWxi",
-                "https://t.co/8jC4Dl69kO"
-            ],
-            "category": "politica",
-            "score": 7
-        },
-        {
-            "id": 1440442992595070976,
-            "title": "Presidente Castillo en la ONU: \u201cReafirmo vocaci\u00f3n democr\u00e1tica de mi gobierno\u201d - El Comercio Per\u00fa #PedroCastillo #ONU",
-            "date": "2021-09-21 22:29:06",
-            "screen_name": "PeruNewsweek",
-            "name": "#Per\u00fa #NewsWeek",
-            "img": "http://pbs.twimg.com/media/E_17RIpVEA4igKs.jpg",
-            "url": [
-                "https://t.co/2nWN8mW6bQ",
-                "https://t.co/BqHZAau54j"
-            ],
-            "category": "politica",
-            "score": 6
-        },
-        {
-            "id": 1438884674156249088,
-            "title": "La popularidad del presidente Castillo avanz\u00f3 en solo 30 d\u00edas de 39% a 42%. Sin embargo, el rechazo a su labor tambi\u00e9n se increment\u00f3 de 41% a 46%. Es decir, la desaprobaci\u00f3n se mantiene por encima de la aceptaci\u00f3n, seg\u00fan la encuesta de Datum \u25ba",
-            "date": "2021-09-17 15:16:54",
+            "id": 1439596733118435328,
+            "title": "#Lo\u00daltimo | Keiko Fujimori a Castillo: \u201cSimpat\u00eda por Abimael Guzm\u00e1n qued\u00f3 al descubierto, den\u00fancienme por decir la verdad\u201d \u25bahttps://t.co/MZE9ZhMTft",
+            "date": "2021-09-19 14:26:22",
             "screen_name": "Gestionpe",
             "name": "Diario Gesti\u00f3n",
-            "img": "http://pbs.twimg.com/media/E_fx-JPXsAkFIM0.jpg",
+            "img": "http://pbs.twimg.com/media/E_p5l-LWEAIOAQN.png",
             "url": [
-                "https://t.co/EJOCsJgbLO",
-                "https://t.co/RI1MKXejSj"
+                "https://t.co/vee87b8sM5"
             ],
             "category": "politica",
-            "score": 5
+            "score": 8,
+            "sentiment": "sentiment/1439596733118435328.jpg",
+            "wordcloud": "wordcloud/1439596733118435328.jpg",
+            "entities": [
+                "Lo\u00daltimo",
+                "Castillo Simpat\u00eda",
+                "MZE ZhMTft"
+            ]
+        },
+        {
+            "id": 1439021390217240576,
+            "title": "Con el silencio c\u00f3mplice frente al tema de Abimael Guzm\u00e1n ya no nos queda ninguna duda. Estamos frente a una nueva variable del terror: el pro terrorismo de gobierno.",
+            "date": "2021-09-18 00:20:09",
+            "screen_name": "KeikoFujimori",
+            "name": "Keiko Fujimori",
+            "img": "http://pbs.twimg.com/ext_tw_video_thumb/1439020994203721728/pu/img/-dnoGYjUxSV3QrTL.jpg",
+            "url": [
+                "https://t.co/zMP4sZq0S9"
+            ],
+            "category": "politica",
+            "score": 7,
+            "sentiment": "sentiment/1439021390217240576.jpg",
+            "wordcloud": "wordcloud/1439021390217240576.jpg",
+            "entities": [
+                "Guzm\u00e1n",
+                "gobierno",
+                "terrorismo"
+            ]
+        },
+        {
+            "id": 1439756024928514048,
+            "title": "#Edici\u00f3nEspecial | Diego Acu\u00f1a: Castillo, Cerr\u00f3n y Per\u00fa Libre fueron claros, quieren establecer una Asamblea Constituyente a trav\u00e9s de un refer\u00e9ndum. En vivo ClaroTV: C12 MovistarTV: C16 DirecTV: C1191 BestCable C8",
+            "date": "2021-09-20 00:59:20",
+            "screen_name": "willaxtv",
+            "name": "Willax Televisi\u00f3n",
+            "img": "http://pbs.twimg.com/media/E_sKLgdXIAAUgnk.png",
+            "url": [
+                "https://t.co/4AJELMLOQ2",
+                "https://t.co/iwrKFAajoS"
+            ],
+            "category": "politica",
+            "score": 7,
+            "sentiment": "sentiment/1439756024928514048.jpg",
+            "wordcloud": "wordcloud/1439756024928514048.jpg",
+            "entities": [
+                "Castillo",
+                "BestCable",
+                "Constituyente"
+            ]
+        },
+        {
+            "id": 1439610281139875840,
+            "title": "El presidente del Per\u00fa, Pedro Castillo, resalt\u00f3 la importancia de la uni\u00f3n entre los pa\u00edses de las regiones latinoamericanas y caribe\u00f1as. Conoce m\u00e1s \u25bahttps://t.co/xts4aq5eyK",
+            "date": "2021-09-19 15:20:12",
+            "screen_name": "larepublica_pe",
+            "name": "Diario La Rep\u00fablica",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1439608123128532997/img/lkErtll0ypFvQ43e.jpg",
+            "url": [
+                "https://t.co/UtjuuuIic9"
+            ],
+            "category": "politica",
+            "score": 7,
+            "sentiment": "sentiment/1439610281139875840.jpg",
+            "wordcloud": "wordcloud/1439610281139875840.jpg",
+            "entities": [
+                "Castillo",
+                "presidente",
+                "xts"
+            ]
+        },
+        {
+            "id": 1438958568997261312,
+            "title": "Presidente Pedro Castillo lleg\u00f3 a M\u00e9xico para participar de la cumbre de la Celac \u25ba",
+            "date": "2021-09-17 20:10:32",
+            "screen_name": "Gestionpe",
+            "name": "Diario Gesti\u00f3n",
+            "img": "http://pbs.twimg.com/media/E_g1FRRX0AcWL5b.png",
+            "url": [
+                "https://t.co/wsFTNO74oQ",
+                "https://t.co/ZzWPBmOopg"
+            ],
+            "category": "politica",
+            "score": 6,
+            "sentiment": "sentiment/1438958568997261312.jpg",
+            "wordcloud": "wordcloud/1438958568997261312.jpg",
+            "entities": [
+                "Castillo",
+                "cumbre",
+                "Pedro Castillo"
+            ]
+        },
+        {
+            "id": 1438839477628280832,
+            "title": "El 53% cree que el gobierno de Pedro Castillo va por un rumbo equivocado \u25ba",
+            "date": "2021-09-17 12:17:18",
+            "screen_name": "Gestionpe",
+            "name": "Diario Gesti\u00f3n",
+            "img": "http://pbs.twimg.com/media/E_fI1JFWEAUX0K-.png",
+            "url": [
+                "https://t.co/EJOCsJgbLO",
+                "https://t.co/gvTsiMLrCF"
+            ],
+            "category": "politica",
+            "score": 6,
+            "sentiment": "sentiment/1438839477628280832.jpg",
+            "wordcloud": "wordcloud/1438839477628280832.jpg",
+            "entities": [
+                "Castillo",
+                "gobierno",
+                "Pedro Castillo"
+            ]
+        },
+        {
+            "id": 1438918992190709760,
+            "title": "Pedro Castillo promulga norma que permite incineraci\u00f3n de Abimael Guzm\u00e1n \u25ba",
+            "date": "2021-09-17 17:33:16",
+            "screen_name": "Gestionpe",
+            "name": "Diario Gesti\u00f3n",
+            "img": "http://pbs.twimg.com/media/E_gRL9aXsAcBrX6.png",
+            "url": [
+                "https://t.co/pdb4ZYgfV4",
+                "https://t.co/2eSccm6xMC"
+            ],
+            "category": "politica",
+            "score": 5,
+            "sentiment": "sentiment/1438918992190709760.jpg",
+            "wordcloud": "wordcloud/1438918992190709760.jpg",
+            "entities": [
+                "Castillo",
+                "Guzm\u00e1n",
+                "Abimael"
+            ]
+        },
+        {
+            "id": 1438840777279479808,
+            "title": "Ahora pasar\u00e1 a manos del Ejecutivo ley que permite cremar restos de cabecillas terroristas \u25ba",
+            "date": "2021-09-17 12:22:28",
+            "screen_name": "Gestionpe",
+            "name": "Diario Gesti\u00f3n",
+            "img": "http://pbs.twimg.com/media/E_fKDRLWYAAEf60.png",
+            "url": [
+                "https://t.co/GpaDm9cfzR",
+                "https://t.co/TgP8AwgxpT"
+            ],
+            "category": "politica",
+            "score": 5,
+            "sentiment": "sentiment/1438840777279479808.jpg",
+            "wordcloud": "wordcloud/1438840777279479808.jpg",
+            "entities": [
+                "ahora",
+                "Ejecutivo ley",
+                "cabecillas"
+            ]
         }
     ]
 }

@@ -1,46 +1,85 @@
 {
     "news": [
         {
-            "id": 1440356397460312064,
-            "title": "\u26a0 SEGUIMOS CON LOS NOTICIONES PARA LOS FANS DE #LoveIsInTheAir \u26a0 Llega #LoveWeekends \ud83d\ude0d para disfrutar de la serie desde el principio \ud83d\ude4c \ud83d\udc49 Este s\u00e1bado (16:00): b\u00f6lums 1 y 2 \ud83d\udc49 Este domingo (16:00): b\u00f6lums 3 y 4 #LoveIsInDivinity21S",
-            "date": "2021-09-21 16:45:00",
-            "screen_name": "divinity_es",
-            "name": "divinity",
-            "img": "http://pbs.twimg.com/media/E_0V7cPUYAQHRCo.jpg",
+            "id": 1440500980840210432,
+            "title": "#EEGElOrigen El\u00edas Montalvo: Usuarios recuerdan cuando Austin Palao se quej\u00f3 de seguridad de los juegos de EEG \u25bahttps://t.co/iECVvYrhAu",
+            "date": "2021-09-22 02:19:31",
+            "screen_name": "elpopular_pe",
+            "name": "El Popular",
+            "img": "http://pbs.twimg.com/media/E_2wAXAUcAU_AUR.jpg",
             "url": [
-                "https://t.co/7RdsT62oR7",
-                "https://t.co/P2rp2Ow3Z4"
+                "https://t.co/kWAvhxVI3M"
             ],
             "category": "espectaculos",
-            "score": 9
+            "score": 5,
+            "sentiment": "sentiment/1440500980840210432.jpg",
+            "wordcloud": "wordcloud/1440500980840210432.jpg",
+            "entities": [
+                "EEGElOrigen",
+                "iECVvYrhAu",
+                "Palao"
+            ]
         },
         {
-            "id": 1439854719552339968,
-            "title": "Este redise\u00f1o de la interfaz de la Switch transforma el men\u00fa principal y la eshop al estilo iOS de Apple",
-            "date": "2021-09-20 07:31:31",
-            "screen_name": "InstantGamingES",
-            "name": "Instant Gaming",
-            "img": "http://pbs.twimg.com/media/E_tkMLVX0AAe_q0.jpg",
+            "id": 1440648162444648448,
+            "title": "El\u00edas Montalvo de #EEGElOrigen se salv\u00f3 con las justas ayer. buen momento para hablar de los medios, su regulaci\u00f3n y la ley que ha propuesto Per\u00fa Libre",
+            "date": "2021-09-22 12:04:22",
+            "screen_name": "ocram",
+            "name": "\ud83c\udf44 Marco Sifuentes",
+            "img": "",
             "url": [
-                "https://t.co/P3GNbg4ij2",
-                "https://t.co/5M1aOmrBs6",
-                "https://t.co/PVGgWz5U0L"
+                "https://t.co/MMjSDYnH5r"
             ],
             "category": "espectaculos",
-            "score": 7
+            "score": 5,
+            "sentiment": "sentiment/1440648162444648448.jpg",
+            "wordcloud": "wordcloud/1440648162444648448.jpg",
+            "entities": [
+                "medios",
+                "momento",
+                "Libre"
+            ]
         },
         {
-            "id": 1440470083361333248,
-            "title": "Cada 21 de septiembre, se celebra el #D\u00edaMundialDeLaPaz. La Asamblea General de Naciones Unidas ha declarado esta fecha como el d\u00eda dedicado al fortalecimiento de los ideales de paz, a trav\u00e9s de la observaci\u00f3n de 24 horas de no violencia y alto el fuego.",
-            "date": "2021-09-22 00:16:45",
-            "screen_name": "muvcarabobo",
-            "name": "MUVCarabobo",
-            "img": "http://pbs.twimg.com/media/E_2T5_HVIAEkWie.jpg",
+            "id": 1438702828571222016,
+            "title": "Concierto desde las pir\u00e1mides de Egipto: As\u00ed ser\u00e1 el pr\u00f3ximo show de los Black Eyed Peas",
+            "date": "2021-09-17 03:14:18",
+            "screen_name": "Milenio",
+            "name": "Milenio",
+            "img": "http://pbs.twimg.com/media/E_dMl2_XEAAPKPa.jpg",
             "url": [
-                "https://t.co/o6feG4Gjij"
+                "https://t.co/9xRJ1iwVHS",
+                "https://t.co/ijBnkge4zl"
             ],
             "category": "espectaculos",
-            "score": 5
+            "score": 5,
+            "sentiment": "sentiment/1438702828571222016.jpg",
+            "wordcloud": "wordcloud/1438702828571222016.jpg",
+            "entities": [
+                "Eyed",
+                "Black Eyed Peas",
+                "pir\u00e1mides"
+            ]
+        },
+        {
+            "id": 1440498307017502720,
+            "title": "#EEGElOrigen \u201cCancelen EEG\u201d: El\u00edas Montalvo cay\u00f3 desde varios metros de altura y usuarios hacen tendencia [VIDEO] \u25bahttps://t.co/32LT5d5pNw",
+            "date": "2021-09-22 02:08:54",
+            "screen_name": "elpopular_pe",
+            "name": "El Popular",
+            "img": "http://pbs.twimg.com/media/E_2tku8VcAIV9o-.jpg",
+            "url": [
+                "https://t.co/1iApaGyEzn"
+            ],
+            "category": "espectaculos",
+            "score": 5,
+            "sentiment": "sentiment/1440498307017502720.jpg",
+            "wordcloud": "wordcloud/1440498307017502720.jpg",
+            "entities": [
+                "El\u00edas Montalvo",
+                "metros",
+                "altura"
+            ]
         }
     ]
 }
