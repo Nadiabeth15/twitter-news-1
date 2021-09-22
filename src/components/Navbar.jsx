@@ -35,18 +35,25 @@ function Navbar() {
         className="header navbar navbar-dark bg-navy"
         style={{ height: "2cm"}}
       >
+        {/* <div className="logo-head">
+                  <a href="/">
+                    <picture>
+                      <img src="../dist/img/Tw-News.png" height={80} />
+                    </picture>
+                  </a>
+                </div> */}
         <div className="container">
           <h1>
             <b>Twitter News</b>
           </h1>
           <h5>
-            <b>{displayDate}</b>
+            {displayDate}
           </h5>
         </div>
       </nav>
       <nav
         className="header navbar navbar-expand navbar-dark bg-gray"
-        style={{ height: "1cm" }}
+        style={{ height: "1cm", alignContent:"center" , paddingLeft:"5.5cm"}}
       >
         <div className="container">
           <div className="collapse navbar-collapse" id="navbarCollapse">
@@ -80,6 +87,16 @@ function Navbar() {
               <li className="nav-item">
                 <a href="/deporte" className="nav-link">
                   Deporte
+                </a>
+              </li>
+              <li className="nav-item">
+                <a href="/ciencia" className="nav-link">
+                  Ciencia
+                </a>
+              </li>
+              <li className="nav-item">
+                <a href="/sociedad" className="nav-link">
+                  Sociedad
                 </a>
               </li>
               <li className="nav-item">

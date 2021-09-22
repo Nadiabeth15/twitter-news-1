@@ -10,6 +10,8 @@ import Health from "./pages/Health";
 import Economy from "./pages/Economy";
 import Politics from "./pages/Politics";
 import Shows from "./pages/Shows";
+import Society from "./pages/Society";
+import Science from "./pages/Science";
 
 function App() {
   return (
@@ -24,6 +26,8 @@ function App() {
         <Route exact path="/economia" component={Economy} />
         <Route exact path="/politica" component={Politics} />
         <Route exact path="/espectaculos" component={Shows} />
+        <Route exact path="/sociedad" component={Society} />
+        <Route exact path="/ciencia" component={Science} />
       </Switch>
       <Footer/>
     </Router>
